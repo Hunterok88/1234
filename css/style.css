@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(65, 55, 55);
+}
+aside{
+ width: 300px;
+ padding: 10px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+}
+
+.osnova {
+margin: 2%;
+background-color: rgb(146, 142, 142);
+border-radius: 15px ;
+display: flex;
+overflow: hidden;
+}
+.contaktu div{
+    text-align: center;
+}
